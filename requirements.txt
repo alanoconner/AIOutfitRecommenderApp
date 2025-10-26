@@ -1,0 +1,9 @@
+flask
+flask-cors
+openai
+requests
+torch
+torchvision
+scikit-learn
+numpy
+opencv-python
